@@ -1,2 +1,4 @@
-# cursoemvideo
+# Olá, mundo!!
+repositório curso em video.
+
  
